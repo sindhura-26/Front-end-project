@@ -2,7 +2,7 @@
 This is an front end project by using  reactjs
 # it is used for heading 1 after # dont foeget to give space
 ## it is used for heading 2 don't forget give space
-### it is used foe headind 3
+### it is used foe heading 3
 #### it is used for heading 4
 *font style in italic* (after * dont give space)
 **font style in bold**
