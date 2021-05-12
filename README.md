@@ -25,3 +25,5 @@ this is font emphasis
      3. integers
   
   ![ mahatma gandi](https://upload.wikimedia.org/wikipedia/commons/7/7a/Mahatma-Gandhi%2C_studio%2C_1931.jpg)
+  [google](google.com)
+  
