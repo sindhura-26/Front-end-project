@@ -5,8 +5,11 @@ This is an front end project by using  reactjs
 ### it is used foe heading 3
 #### it is used for heading 4
 *font style in italic* (after * dont give space)
+
 **font style in bold**
+
 ***font style in both italic and bold***
+
 this is font emphasis
 # unordered list
 * fruits as unordered list name
