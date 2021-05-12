@@ -26,4 +26,12 @@ this is font emphasis
   
   ![ mahatma gandi](https://upload.wikimedia.org/wikipedia/commons/7/7a/Mahatma-Gandhi%2C_studio%2C_1931.jpg)
   [google](https://www.google.com/)
+  ~~~python
+  def fun()
+    print("hai")
+    ~~~
+    table 1 | table 2
+    -----------------
+    table body 1 | table body 2
+    
   
