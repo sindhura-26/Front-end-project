@@ -30,9 +30,9 @@ this is font emphasis
   def fun()
     print("hai")
     ~~~
-    table 1 | table 2
-    --------|--------
-    table body 1 | table body 2
+    Table 1 | Table 2
+    --------|---------
+    Table body1 | Table body 2
     
     
   
