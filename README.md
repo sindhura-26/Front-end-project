@@ -31,8 +31,8 @@ this is font emphasis
     print("hai")
     ~~~
     Table 1 | Table 2
-    ------- | ----------------
-    Table body1 | Table body 2
+    --------|-----------
+    Table body1|Table body 2
     
     
   
